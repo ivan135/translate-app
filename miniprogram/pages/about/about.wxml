@@ -1,0 +1,7 @@
+<!--pages/about/about.wxml-->
+<view class='container'>
+  <view class='conent'>
+    <text>微信号:</text>
+    <text>Ivan-Zz22</text>
+  </view>
+</view>
